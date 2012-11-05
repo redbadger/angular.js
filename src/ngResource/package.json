@@ -21,6 +21,6 @@
       "angularjs": ">=1.0.1"
     },
     "main": "resource.js",
-    "include": ["../../README.md"]
+    "include": ["resource.js", "../../README.md"]
   }
 }
